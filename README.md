@@ -1,5 +1,7 @@
 ### Hi there 👋  
 
+My github is mostly a backup mirror of private repos.
+
 I will speak now in rot13.
 
 V nz zbivat njnl sebz choyvp bcra fbhepr uhof, gubhtu V nz abg fher V pna rkcynva gehgushyyl jul.
@@ -8,14 +10,14 @@ V ernyvmr vg vf pbecbengr abj zbfgyl, naq vg vf zbfg bs gur fnzr rtbf naq ovt zb
 orpbzvat n cebtenzzre.
 
 Jung lbh frr urer V unir tehqtvatyl yrsg be erchecbfrq sbe rvgure n wbo vagreivrj, erpehvgref be n pnerre cebsvyr...
-juvpu VZUB vf abg sha.
+juvpu VZUB vf abg sha. V unir arire unq nalbar gnxr nal vagrerfg be ivpr irefn.
 
-V yvir naq jbex va n jbeyq bs ntvfz, frkvfz, enpvfz, naq ryvgvfz. Nyy bs gung svygref guebhtu zl qernz wbo abj naq V
+V yvir naq jbex va n jbeyq bs ntvfz, frkvfz, enpvfz, naq ryvgvfz. Nyy bs gung svygref guebhtu gur pnerre naq
+V
 cbyvgryl
 ershfr.
 
 V nz. Abj lbh pna nqq jungrire lbh jnag gb gur raq bs gung fragrapr, ohg vg jvyy arire or gehr.
-
 <!--
 **ryjen/ryjen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
