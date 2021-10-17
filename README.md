@@ -8,7 +8,7 @@ My github has a few public homebrew projects that maybe of interest:
 
 * [prep](https://github.com/ryjen/prep) is an attempt to make a useful C++ project build and dependency tool. Plugin based functionality.
 
-* [libcoda](https://github.com/ryjen/libcoda) are some modern C++ toolkit.  Notable sub projects to be proud of are [libcoda-net](https://github.com/ryjen/libcoda-net) and [libcodea-db](https://github.com/ryjen/libcoda-db].
+* [libcoda](https://github.com/ryjen/libcoda) are some modern C++ toolkit.  Notable sub projects to be proud of are [libcoda-net](https://github.com/ryjen/libcoda-net) and [libcoda-db](https://github.com/ryjen/libcoda-db).
 
 * [quotes](https://github.com/ryjen/quotes) is some AWS lambda API experimentation in go.
 
