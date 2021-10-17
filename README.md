@@ -4,25 +4,25 @@ My github has a few public homebrew projects that maybe of interest:
 
 * [jokeapp](https://github.com/ryjen/jokeapp) and [jokeapp-droid](https://github.com/ryjen/jokeapp-droid) are hello world apps in `react-native` and `kotlin`.
 
-* [scouter](https://github.com/ryjen/scouter) was a turn based game in react-native that is temporarily abandoned.
+* [scouter](https://github.com/ryjen/scouter) was a turn based game in `react-native` that is temporarily abandoned.
 
-* [prep](https://github.com/ryjen/prep) is an attempt to make a useful C++ project build and dependency tool. Plugin based functionality.
+* [prep](https://github.com/ryjen/prep) is an attempt to make a useful `C++` project build and dependency tool. Plugin based functionality.
 
-* [libcoda](https://github.com/ryjen/libcoda) are some modern C++ toolkit.  Notable sub projects to be proud of are [libcoda-net](https://github.com/ryjen/libcoda-net) and [libcoda-db](https://github.com/ryjen/libcoda-db).
+* [libcoda](https://github.com/ryjen/libcoda) are some modern `C++` toolkit.  Notable sub projects to be proud of are [libcoda-net](https://github.com/ryjen/libcoda-net) and [libcoda-db](https://github.com/ryjen/libcoda-db).
 
-* [quotes](https://github.com/ryjen/quotes) is some AWS lambda API experimentation in go.
+* [quotes](https://github.com/ryjen/quotes) is some `AWS lambda` API experimentation in `golang`.
 
-* [mitm](https://github.com/ryjen/mitm) is a man-in-the-middle project to virtually create an attack in a virtual environment.
+* [mitm](https://github.com/ryjen/mitm) is a `man-in-the-middle` project to virtually create an attack in a virtual environment.
 
-* [sandbox](https://github.com/hackelia-micrantha/sandbox) is an early stage tool in golang to make development inside a container easier (file sync, networking, reuse)
+* [sandbox](https://github.com/hackelia-micrantha/sandbox) is an early stage tool in `golang` to make development inside a container easier (file sync, networking, reuse)
 
-* [stimulus](https://github.com/hackelia-micrantha/stimulus) is a golang behaviour driven testing framework that I think is more intuitive while remaining simple to golang standard testing.
+* [stimulus](https://github.com/hackelia-micrantha/stimulus) is a `golang` behaviour driven testing framework that I think is more intuitive while remaining simple and true to standard testing.
 
 * [dotfiles](https://github.com/ryjen/dotfiles) are my configuration files.  Managed in a simple but effective manner with GNU `stow`.
 
-* [hangman](https://github.com/ryjen/hangman) was an early react-native project to play a game of hangman, now abandoned.
+* [hangman](https://github.com/ryjen/hangman) was an early `react-native` project to play a game of hangman, now abandoned.
 
-* [color-luminence](https://github.com/ryjen/color-luminance) was a modification that that turned into a rewrite and not pushed back.
+* [color-luminence](https://github.com/ryjen/color-luminance) was a modification to an opensource javascript library. turned into a rewrite and not pushed back.
 
 <!--
 
