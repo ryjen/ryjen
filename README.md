@@ -6,7 +6,7 @@ My github has a few public homebrew projects that maybe of interest:
 
 * [scouter](https://github.com/ryjen/scouter) was a turn based game in `react-native` that is temporarily abandoned.
 
-* [prep](https://github.com/ryjen/prep) is an attempt to make a `C++` project build and dependency tool. Plugin based functionality to be flexible to any C++ legacy dependency and build system.
+* [prep-cli](https://github.com/ryjen/prep) is an attempt to make a `C++` project build and dependency tool. [Plugin](https://github.com/ryjen/prep-plugins) based functionality to be flexible to any C++ legacy dependency and build system.
 
 * [libcoda](https://github.com/ryjen/libcoda) are some modern `C++` toolkit.  Notable sub projects to be proud of are [libcoda-net](https://github.com/ryjen/libcoda-net) and [libcoda-db](https://github.com/ryjen/libcoda-db).
 
@@ -16,7 +16,7 @@ My github has a few public homebrew projects that maybe of interest:
 
 * [swiftactoe](https://github.com/ryjen/swiftactoe) is a test of opensource swift in ubuntu docker with a minmax algorithm and imported C library for multiplayer.
 
-* [scheduling-algos](https://github.com/ryjen/scheduling-algos) and [shell](https://github.com/ryjen/shell) are some `C` projects to demo operating system scheduling and console shell implementations.
+* [operating system demos](https://github.com/ryjen/os) in `C` for [scheduling algorithms](https://github.com/ryjen/scheduling-algos) and a [shell](https://github.com/ryjen/shell) implementation.
 
 * [sandbox](https://github.com/hackelia-micrantha/sandbox) is an early stage tool in `golang` to make development inside a container easier (file sync, networking, reuse)
 
