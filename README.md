@@ -16,6 +16,8 @@ My github has a few public homebrew projects that maybe of interest:
 
 * [swiftactoe](https://github.com/ryjen/swiftactoe) is a test of opensource swift in ubuntu docker with a minmax algorithm and imported C library for multiplayer.
 
+* [scheduling-algos](https://github.com/ryjen/scheduling-algos) and [shell](https://github.com/ryjen/shell) are some `C` projects to demo operating system scheduling and console shell implementations.
+
 * [sandbox](https://github.com/hackelia-micrantha/sandbox) is an early stage tool in `golang` to make development inside a container easier (file sync, networking, reuse)
 
 * [stimulus](https://github.com/hackelia-micrantha/stimulus) is a `golang` behaviour driven testing framework that I think is more intuitive while remaining simple and true to standard testing.
@@ -32,7 +34,6 @@ Ask about my private repositories if you like:
 * multiplayer iOS pong
 * multiplayer yahtzee ncurses CLI
 * competitive programming and other code kata
-* operating system scheduling algorithms
 * mobile synchronization hybrid relational/nosql database. change detection with other clients or central server.
 * unix fortunes api
 * selfhosted infrastructure
