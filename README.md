@@ -14,6 +14,8 @@ My github has a few public homebrew projects that maybe of interest:
 
 * [mitm](https://github.com/ryjen/mitm) is a `man-in-the-middle` project to virtually create an attack in a virtual environment.
 
+* [swiftactoe](https://github.com/ryjen/swiftactoe) is a test of opensource swift in ubuntu docker with a minmax algorithm and imported C library for multiplayer.
+
 * [sandbox](https://github.com/hackelia-micrantha/sandbox) is an early stage tool in `golang` to make development inside a container easier (file sync, networking, reuse)
 
 * [stimulus](https://github.com/hackelia-micrantha/stimulus) is a `golang` behaviour driven testing framework that I think is more intuitive while remaining simple and true to standard testing.
@@ -23,6 +25,18 @@ My github has a few public homebrew projects that maybe of interest:
 * [hangman](https://github.com/ryjen/hangman) was an early `react-native` project to play a game of hangman, now abandoned.
 
 * [color-luminence](https://github.com/ryjen/color-luminance) was a modification to an opensource javascript library. turned into a rewrite and not pushed back.
+
+Ask about my private repositories if you like:
+
+* scrabble algorithms and AR/ML board solver
+* multiplayer iOS pong
+* multiplayer yahtzee CLI
+* competitive programming and other code kata
+* operating system scheduling algorithms
+* mobile synchronization hybrid relational/nosql database
+* unix fortunes api
+* selfhosted infrastructure
+* codebreaker hello world game in rust
 
 <!--
 
