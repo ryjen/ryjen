@@ -6,7 +6,7 @@ My github has a few public homebrew projects that maybe of interest:
 
 * [scouter](https://github.com/ryjen/scouter) was a turn based game in `react-native` that is temporarily abandoned.
 
-* [prep](https://github.com/ryjen/prep) is an attempt to make a useful `C++` project build and dependency tool. Plugin based functionality.
+* [prep](https://github.com/ryjen/prep) is an attempt to make a `C++` project build and dependency tool. Plugin based functionality to be flexible to any C++ legacy dependency and build system.
 
 * [libcoda](https://github.com/ryjen/libcoda) are some modern `C++` toolkit.  Notable sub projects to be proud of are [libcoda-net](https://github.com/ryjen/libcoda-net) and [libcoda-db](https://github.com/ryjen/libcoda-db).
 
