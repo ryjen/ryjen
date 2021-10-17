@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-My github has maybe a few public homebrew project maybe of interest.
+My github has a few public homebrew projects that maybe of interest:
 
 * [jokeapp](https://github.com/ryjen/jokeapp) and [jokeapp-droid](https://github.com/ryjen/jokeapp-droid) are hello world apps in `react-native` and `kotlin`.
 
@@ -24,6 +24,8 @@ My github has maybe a few public homebrew project maybe of interest.
 
 * [color-luminence](https://github.com/ryjen/color-luminance) was a modification that that turned into a rewrite and not pushed back.
 
+<!--
+
 I will speak now in rot13.
 
 V nz zbivat njnl sebz choyvp bcra fbhepr uhof, gubhtu V nz abg fher V pna rkcynva gehgushyyl jul.
@@ -32,8 +34,6 @@ V ernyvmr vg vf pbecbengr abj zbfgyl, naq vg vf zbfg bs gur fnzr rtbf naq ovt zb
 orpbzvat n cebtenzzre.
 
 Jung lbh frr urer
-<!--
-
  V unir tehqtvatyl yrsg be erchecbfrq sbe rvgure n wbo vagreivrj, erpehvgref be n pnerre cebsvyr...
 juvpu VZUB vf abg sha. V unir arire unq nalbar gnxr nal vagrerfg be ivpr irefn.
 
