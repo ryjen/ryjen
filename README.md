@@ -30,13 +30,13 @@ My github has a few public homebrew projects that maybe of interest:
 
 Ask about my private repositories if you like:
 
-* scrabble algorithms and AR/ML board solver
+* scrabble algorithms and iOS AR/ML board solver
+* mobile synchronization hybrid relational/nosql database. change detection with other clients or central server
+* selfhosted infrastructure
 * multiplayer iOS pong
 * multiplayer yahtzee ncurses CLI
 * competitive programming and other code kata
-* mobile synchronization hybrid relational/nosql database. change detection with other clients or central server.
 * unix fortunes api
-* selfhosted infrastructure
 * codebreaker hello world game in rust
 
 <!--
