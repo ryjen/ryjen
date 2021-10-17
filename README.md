@@ -30,10 +30,10 @@ Ask about my private repositories if you like:
 
 * scrabble algorithms and AR/ML board solver
 * multiplayer iOS pong
-* multiplayer yahtzee CLI
+* multiplayer yahtzee ncurses CLI
 * competitive programming and other code kata
 * operating system scheduling algorithms
-* mobile synchronization hybrid relational/nosql database
+* mobile synchronization hybrid relational/nosql database. change detection with other clients or central server.
 * unix fortunes api
 * selfhosted infrastructure
 * codebreaker hello world game in rust
