@@ -6,13 +6,13 @@ My github has a few public homebrew projects that maybe of interest:
 
 * [graphva](https://github.com/ryjen/graphva) java implmentation for a graph and related algorithms and data structures.
 
-* [prep](https://github.com/ryjen/prep) is an attempt to make a [CLI](https://github.com/ryjen/prep-cli) build and dependency tool. [Plugin](https://github.com/ryjen/prep-plugins) based functionality to be flexible to any C++ legacy dependency and build system.
-
-* [libcoda](https://github.com/ryjen/libcoda) are some modern `C++` toolkit.  Notable sub projects to be proud of are [libcoda-net](https://github.com/ryjen/libcoda-net) and [libcoda-db](https://github.com/ryjen/libcoda-db).
-
 * [quotes](https://github.com/ryjen/quotes) is some `AWS lambda` API experimentation in `golang`.
 
 * [mitm](https://github.com/ryjen/mitm) is a `man-in-the-middle` project to virtually create an attack in a virtual environment.
+
+* [prep](https://github.com/ryjen/prep) is an attempt to make a [CLI](https://github.com/ryjen/prep-cli) build and dependency tool. [Plugin](https://github.com/ryjen/prep-plugins) based functionality to be flexible to any C++ legacy dependency and build system.
+
+* [libcoda](https://github.com/ryjen/libcoda) are some modern `C++` toolkit.  Notable sub projects to be proud of are [libcoda-net](https://github.com/ryjen/libcoda-net) and [libcoda-db](https://github.com/ryjen/libcoda-db).
 
 * [swiftactoe](https://github.com/ryjen/swiftactoe) is a test of opensource swift in ubuntu docker with a minmax algorithm and imported C library for multiplayer.
 
