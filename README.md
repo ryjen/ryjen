@@ -4,7 +4,7 @@ My github has a few public homebrew projects that maybe of interest:
 
 * [jokeapp](https://github.com/ryjen/jokeapp) and [jokeapp-droid](https://github.com/ryjen/jokeapp-droid) are hello world apps in `react-native` and `kotlin`.
 
-* [scouter](https://github.com/ryjen/scouter) was a turn based game in `react-native` that is temporarily abandoned.
+* [graphva](https://github.com/ryjen/graphva) java implmentation for a graph and related algorithms and data structures.
 
 * [prep](https://github.com/ryjen/prep) is an attempt to make a [CLI](https://github.com/ryjen/prep-cli) build and dependency tool. [Plugin](https://github.com/ryjen/prep-plugins) based functionality to be flexible to any C++ legacy dependency and build system.
 
@@ -23,6 +23,8 @@ My github has a few public homebrew projects that maybe of interest:
 * [stimulus](https://github.com/hackelia-micrantha/stimulus) is a `golang` behaviour driven testing framework that I think is more intuitive while remaining simple and true to standard testing.
 
 * [dotfiles](https://github.com/ryjen/dotfiles) are my configuration files.  Managed in a simple but effective manner with GNU `stow`.
+
+* [scouter](https://github.com/ryjen/scouter) was a turn based game in `react-native` that is temporarily abandoned.
 
 * [hangman](https://github.com/ryjen/hangman) was an early `react-native` project to play a game of hangman, now abandoned.
 
