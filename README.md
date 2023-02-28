@@ -1,6 +1,7 @@
 ### Hi there 👋  
 
-My github has a few public homebrew projects that maybe of interest:
+My github has a few public homebrew projects that maybe of interest.  You can also find me tinkering at [Micrantha](https://micrantha.com) when the mood strikes me.
+
 
 * [jokeapp](https://github.com/ryjen/jokeapp) and [jokeapp-droid](https://github.com/ryjen/jokeapp-droid) are hello world apps in `react-native` and `kotlin`.
 
