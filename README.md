@@ -3,7 +3,7 @@
 My github has a few public homebrew projects that maybe of interest.  You can also find me tinkering at [Micrantha](https://micrantha.com) when the mood strikes me.
 
 
-* [jokeapp](https://github.com/ryjen/jokeapp) and [jokeapp-droid](https://github.com/ryjen/jokeapp-droid) are hello world apps in `react-native` and `kotlin`.
+* [jokeapp](https://github.com/ryjen/jokeapp) and [jokeapp-droid](https://github.com/ryjen/jokeapp-droid) are hello world apps in `react-native` and `kotlin` and `jetpack compose` in a `redux/mvi` architecture.
 
 * [graphva](https://github.com/ryjen/graphva) java implmentation for a graph and related algorithms and data structures.
 
