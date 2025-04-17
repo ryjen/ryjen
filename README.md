@@ -1,46 +1,15 @@
 ### Hi there 👋  
 
-My github has a few public homebrew projects that maybe of interest.  You can also find me tinkering at [Micrantha](https://micrantha.com) when the mood strikes me.
-
-
-* [jokeapp](https://github.com/ryjen/jokeapp) and [jokeapp-droid](https://github.com/ryjen/jokeapp-droid) are hello world apps in `react-native` and `kotlin` and `jetpack compose` in a `redux/mvi` architecture.
-
-* [graphva](https://github.com/ryjen/graphva) java implmentation for a graph and related algorithms and data structures.
-
-* [quotes](https://github.com/ryjen/quotes) is some `AWS lambda` API experimentation in `golang`.
-
-* [mitm](https://github.com/ryjen/mitm) is a `man-in-the-middle` project to virtually create an attack in a virtual environment.
-
-* [prep](https://github.com/ryjen/prep) is an attempt to make a [CLI](https://github.com/ryjen/prep-cli) build and dependency tool. [Plugin](https://github.com/ryjen/prep-plugins) based functionality to be flexible to any C++ legacy dependency and build system.
-
-* [libcoda](https://github.com/ryjen/libcoda) are some modern `C++` toolkit.  Notable sub projects to be proud of are [libcoda-net](https://github.com/ryjen/libcoda-net) and [libcoda-db](https://github.com/ryjen/libcoda-db).
-
-* [swiftactoe](https://github.com/ryjen/swiftactoe) is a test of opensource swift in ubuntu docker with a minmax algorithm and imported C library for multiplayer.
-
-* [operating system demos](https://github.com/ryjen/os) in `C` for [scheduling algorithms](https://github.com/ryjen/scheduling-algos) and a [shell](https://github.com/ryjen/shell) implementation.
-
-* [sandbox](https://github.com/hackelia-micrantha/sandbox) is an early stage tool in `golang` to make development inside a container easier (file sync, networking, reuse)
-
-* [stimulus](https://github.com/hackelia-micrantha/stimulus) is a `golang` behaviour driven testing framework that I think is more intuitive while remaining simple and true to standard testing.
-
-* [dotfiles](https://github.com/ryjen/dotfiles) are my configuration files.  Managed in a simple but effective manner with GNU `stow`.
-
-* [scouter](https://github.com/ryjen/scouter) was a turn based game in `react-native` that is temporarily abandoned.
-
-* [hangman](https://github.com/ryjen/hangman) was an early `react-native` project to play a game of hangman, now abandoned.
-
-* [color-luminence](https://github.com/ryjen/color-luminance) was a modification to an opensource javascript library. turned into a rewrite and not pushed back.
+My current project is [eyespie](https://github.com/hackelia-micrantha/eyespie) is a turn based game of "I spy with my little eye" using AI (kotlin multiplatform).
 
 Ask about my private repositories if you like:
 
 * scrabble algorithms and iOS AR/ML board solver
-* mobile synchronization hybrid relational/nosql database. change detection with other clients or central server
+* competitive programming and other code kata
+* mobile synchronization. change detection with other clients or central server
 * selfhosted infrastructure
 * multiplayer iOS pong
-* multiplayer yahtzee ncurses CLI
-* competitive programming and other code kata
 * unix fortunes api
-* codebreaker hello world game in rust
 
 <!--
 
