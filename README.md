@@ -6,7 +6,7 @@ My current project is [eyespie](https://github.com/hackelia-micrantha/eyespie) i
 
 I have a lot of old crap here, just watch where you are walking and don't tread it all over my day job.
 
-Ask about my private repositories if you like:
+Ask about my private half baked repositories if you like:
 
 * scrabble algorithms and iOS AR/ML board solver
 * competitive programming and other code kata
