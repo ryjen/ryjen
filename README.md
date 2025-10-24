@@ -4,6 +4,8 @@ I do mobile development. Have roots in C/'nix development.  Am a fan of kotlin a
 
 My current project is [eyespie](https://github.com/hackelia-micrantha/eyespie) is a turn based game of "I spy with my little eye" using AI (kotlin multiplatform).
 
+I have a lot of old crap here, just watch where you are walking and don't tread it all over my day job.
+
 Ask about my private repositories if you like:
 
 * scrabble algorithms and iOS AR/ML board solver
