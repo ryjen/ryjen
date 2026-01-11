@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-Senior engineer experienced in reliable systems across backend, cloud, and mobile. Have roots in C/'nix development. I have a lot of old stuff here, just watch where you are walking and don't tread it all over my day job.
+Senior engineer experienced in reliable systems across backend, cloud, and mobile. Have roots in C/'nix development. I have a lot of old noisy stuff here, signal goes to day job.
 
 🔭 I’m currently working on [Anthesis](https://anthesis.micrantha.com) for governed agentic SDLC in my projects.
 
