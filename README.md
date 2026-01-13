@@ -27,4 +27,4 @@ Senior engineer experienced in reliable systems across backend, cloud, and mobil
 
 😄 Pronouns: he/him/his
 
-⚡ Fun fact: I play guitar & hockey, and started coding in 1998, I did open source before github.
+⚡ Fun fact: I play guitar & hockey, and started coding in 1998, I did open source before github (and yes I am a little tired of it).
