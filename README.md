@@ -4,6 +4,8 @@ Senior engineer experienced in reliable systems across mobile, backend, cloud & 
 
 🔭 I’m currently working on [Anthesis](https://anthesis.micrantha.com) for governed agentic SDLC in my projects.  I have developed a Unified Governance Framework using QART (questions, alts, recommends, tradeoffs) and something I call Drift Engineering.
 
+I'm proud of the fictional truth book and movie concept I created called [The Fatherless](https://fatherless.ryanjennin.gs).
+
 🌱 I’m currently learning Platform Engineering, Agentic AI & Security principles
 
 👯 I’m looking to collaborate on Cloud, Security or AI related tasks or projects
