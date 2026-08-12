@@ -38,11 +38,11 @@ A set of deliberately separated projects exploring those boundaries:
 
 ```mermaid
 flowchart LR
-    C[Calathea<br/>workflow] --> I[Invokrum<br/>context identity]
-    I --> D[Dubnium<br/>bounded execution]
-    D --> K[Keylix<br/>sender binding]
-    K --> A[Anthesis<br/>policy · approval · evidence]
-    A --> E[Governed effects]
+    C["Calathea<br/>—<br/>workflow"] --> I["Invokrum<br/>—<br/>context identity"]
+    I --> D["Dubnium<br/>—<br/>bounded execution"]
+    D --> K["Keylix<br/>—<br/>sender binding"]
+    K --> A["Anthesis<br/>—<br/>policy · approval · evidence"]
+    A --> E["Governed effects"]
 ```
 
 | Project | Role |
