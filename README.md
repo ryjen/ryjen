@@ -32,6 +32,27 @@ The recurring question behind much of my current work is:
 
 A principle I keep returning to: **a system may propose its successor, but it should not independently authorize the transition to that successor.** Durable state changes need an external trust boundary and evidence that can be independently evaluated.
 
+## Selected engineering work
+
+| System | Engineering evidence |
+| --- | --- |
+| **[Anthesis](https://github.com/hackelia-micrantha/anthesis-community)** and **[Governance Lab](https://github.com/ryjen/anthesis-governance-lab)** | Governed agent effects, explicit authority boundaries, executable adversarial/conformance trials; runtime enforcement remains integration-dependent. |
+| **[Config Drift Guard](https://github.com/ryjen/config-drift-guard)** | Deterministic control-plane reconciliation, immutable approval plans, stale-state rejection, SQLite workflow persistence, and an operator UI. |
+| **[Repora](https://github.com/hackelia-micrantha/repora)** | Go repository control, explicit plans, safe ref reconciliation, and durable execution evidence (experimental). |
+| **[Eyespie](https://github.com/ryjen/eyespie)** | Kotlin Multiplatform offline-first mobile computer vision, native Android/iOS integration, signed game interchange, and exact-candidate release verification; physical acceptance is still open. |
+| **[TidyFS](https://github.com/ryjen/tidyfs)** | Rust filesystem analysis and reversible cleanup, recovery and adversarial validation, with AI limited to advisory decisions. |
+| **[Amaryllis](https://github.com/hackelia-micrantha/amaryllis)** | React Native/on-device multimodal inference and schema-constrained component integration. |
+
+Additional work: **[Hyperion Community](https://github.com/hackelia-micrantha/hyperion-community)** (infrastructure/GitOps), **[Keylix Community](https://github.com/hackelia-micrantha/keylix-community)** (OAuth/DPoP sender binding), **[Seamwork](https://github.com/ryjen/seamwork)** (modern C++23 interface studies), **[Shopping Inventory](https://github.com/ryjen/shopping-inventory)** (private data, public implementation and deterministic evidence), and **[git-autocommit](https://github.com/ryjen/git-autocommit)** (bounded AI-assisted Git commits).
+
+## Research and engineering practice
+
+- **[Secure Agent Workflows](https://github.com/ryjen/agent-delivery-playbook)** — secure AI-assisted delivery patterns, task boundaries, threat modeling, and review evidence.
+- **[Micrantha engineering contracts](https://github.com/hackelia-micrantha/.github)** — shared secure-SDLC, testing, CI/CD, repository and release standards, with no blanket certification implied.
+- **[Personal technical work](https://github.com/ryjen/guitar-practice-system)** — music tooling, guitar/DSP experiments and local-first projects.
+
+Historical repositories remain available for context; archived examples do not imply current support or current engineering style.
+
 ## Micrantha / governed agent stack
 
 A set of deliberately separated projects exploring those boundaries:
@@ -48,22 +69,12 @@ flowchart LR
 | Project | Role |
 | --- | --- |
 | **[Anthesis](https://anthesis.micrantha.com)** | Deterministic governance boundary for consequential agentic effects: policy, approval, capabilities, evidence, provenance, and auditability. |
-| **[Invokrum](https://github.com/hackelia-micrantha/invokrum)** | Deterministic prompt-overlay composition and attestation: explicit ordering, compatibility, manifests, lockfiles, and reproducible context. |
-| **[Keylix](https://github.com/hackelia-micrantha/keylix)** | Sender-constrained authorization and proof-of-possession primitives for OAuth, DPoP, MCP, and agentic workloads. |
-| **Dubnium** | Private local-first AI/runtime test bed: supervisor/specialists, model routing, memory, tools, scheduling, runtime evidence, and governed execution. |
-| **Calathea** | Workflow/task-contract layer for composing bounded agent work without collapsing orchestration into governance or runtime concerns. |
+| **[Invokrum](https://github.com/hackelia-micrantha/invokrum-community)** | Deterministic prompt-overlay composition and attestation: explicit ordering, compatibility, manifests, lockfiles, and reproducible context. |
+| **[Keylix](https://github.com/hackelia-micrantha/keylix-community)** | Sender-constrained authorization and proof-of-possession primitives for OAuth, DPoP, MCP, and agentic workloads. |
+| **[Dubnium](https://github.com/hackelia-micrantha/dubnium-community)** | Private local-first AI/runtime test bed: supervisor/specialists, model routing, memory, tools, scheduling, runtime evidence, and governed execution. |
+| **[Calathea](https://github.com/hackelia-micrantha/calathea-community)** | Workflow/task-contract layer for composing bounded agent work without collapsing orchestration into governance or runtime concerns. |
 
 The goal is not a monolithic agent framework. The interesting work is at the **boundaries**: what context entered the system, who or what is acting, what authority it has, what effect is requested, who approves it, and what evidence remains afterward.
-
-## Selected public work
-
-- **[Anthesis Governance Lab](https://github.com/ryjen/anthesis-governance-lab)** — public conformance and demonstration surface for deterministic agent-governance contracts.
-- **[Secure Agent Workflows](https://github.com/ryjen/agent-delivery-playbook)** — practical patterns, threat models, task contracts, and evidence expectations for secure AI-assisted software delivery.
-- **[Eyespie](https://github.com/ryjen/eyespie)** — Kotlin Multiplatform / mobile computer-vision work, including iOS and MediaPipe integration.
-- **[Guitar Practice System](https://github.com/ryjen/guitar-practice-system)** — structured practice tooling exploring progression, assessment, backing tracks, and AI-assisted music workflows.
-- **[git-autocommit](https://github.com/ryjen/git-autocommit)** and other small tools — experiments in developer workflow automation, repository safety, and bounded automation.
-
-There is also a fair amount of older code here. I started programming in 1998 and publishing open-source software before GitHub existed; not every repository represents my current engineering style or priorities. The projects above are the useful signal.
 
 ## Engineering perspective
 
@@ -94,6 +105,6 @@ I am also interested in collaborating on work around:
 
 ## Outside software
 
-I play guitar and piano, record music, play hockey, and occasionally turn engineering energy toward things that have nothing to do with infrastructure — including **[The Fatherless](https://fatherless.ryanjennin.gs)**, a long-form fiction/screenplay project.
+I play guitar and piano, record music, play hockey, and occasionally turn engineering energy toward things that have nothing to do with infrastructure — including **[Entanglement of Ages](https://github.com/ryjen/entanglement-of-ages-marketing)**, a long-form fiction/screenplay project.
 
 <sub>he / him</sub>
