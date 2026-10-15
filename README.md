@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Senior / Staff / Principal Software Engineer</strong><br />
-  Secure systems · Agentic AI infrastructure · Platform engineering · Mobile
+  Platform & backend architecture · Native mobile · Application security · Governed AI
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 I build long-lived software systems where **correctness, security, operability, and explicit trust boundaries** matter.
 
-My background spans 15+ years across Android, iOS, React Native, Kotlin Multiplatform, backend systems, cloud/platform engineering, infrastructure, and application security. I still work across the stack, but my current focus is the intersection of **agentic AI, secure software delivery, platform engineering, and governance**.
+My commercial experience spans 15+ years of Android, iOS, React Native, backend integrations, platform delivery, modernization, and security-sensitive engineering. My independent/open-source work extends that foundation into Kotlin Multiplatform, Rust/Go developer tools, local-first AI infrastructure, and governed agentic systems. The common thread is **maintainable architecture, explicit trust boundaries, and independently verifiable outcomes**.
 
 The recurring question behind much of my current work is:
 
