@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Senior / Staff / Principal Software Engineer</strong><br />
-  Secure systems · Agentic AI infrastructure · Platform engineering · Mobile
+  Platform & backend architecture · Native mobile · Application security · Governed AI
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 
 I build long-lived software systems where **correctness, security, operability, and explicit trust boundaries** matter.
 
-My background spans 15+ years across Android, iOS, React Native, Kotlin Multiplatform, backend systems, cloud/platform engineering, infrastructure, and application security. I still work across the stack, but my current focus is the intersection of **agentic AI, secure software delivery, platform engineering, and governance**.
+My commercial experience spans 15+ years of Android, iOS, React Native, backend integrations, platform delivery, modernization, and security-sensitive engineering. My independent/open-source work extends that foundation into Kotlin Multiplatform, Rust/Go developer tools, local-first AI infrastructure, and governed agentic systems. The common thread is **maintainable architecture, explicit trust boundaries, and independently verifiable outcomes**.
 
 The recurring question behind much of my current work is:
 
@@ -31,6 +31,18 @@ The recurring question behind much of my current work is:
 - **Platform & developer experience** — paved paths, strong contracts, predictable failure modes, observability, CI/CD, and incremental modernization.
 
 A principle I keep returning to: **a system may propose its successor, but it should not independently authorize the transition to that successor.** Durable state changes need an external trust boundary and evidence that can be independently evaluated.
+
+## Engineering evidence by role
+
+My commercial work covers long-lived mobile/client applications, backend integrations, modernization, release engineering, and security-sensitive delivery. The projects below are **independent/open-source engineering**, except for explicitly identified collaborative work such as OpenArchive. They demonstrate design and implementation decisions, not unverified employer-scale adoption.
+
+| Area | Start here |
+| --- | --- |
+| **Staff / platform / backend** | [Config Drift Guard](https://github.com/ryjen/config-drift-guard), [Repora](https://github.com/hackelia-micrantha/repora), [TidyFS](https://github.com/ryjen/tidyfs) — deterministic state, failure and recovery, governed mutation |
+| **Mobile / native / cross-platform** | [Public OpenArchive Android commits](https://github.com/OpenArchive/Save-app-android/commits?author=ryjen), [Eyespie](https://github.com/ryjen/eyespie), [Amaryllis](https://github.com/hackelia-micrantha/amaryllis) — native platform boundaries, offline-first state, on-device inference |
+| **AppSec / AI governance / DevEx** | [Anthesis Governance Lab](https://github.com/ryjen/anthesis-governance-lab), [Keylix](https://github.com/hackelia-micrantha/keylix-community), [git-autocommit](https://github.com/ryjen/git-autocommit) — fail-closed decisions, sender binding, untrusted AI output |
+
+**[Read engineering case studies with problem, design, verification, and limitations →](docs/engineering-work.md)**
 
 ## Selected engineering work
 
