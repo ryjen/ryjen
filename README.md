@@ -32,6 +32,18 @@ The recurring question behind much of my current work is:
 
 A principle I keep returning to: **a system may propose its successor, but it should not independently authorize the transition to that successor.** Durable state changes need an external trust boundary and evidence that can be independently evaluated.
 
+## Engineering evidence by role
+
+My commercial work covers long-lived mobile/client applications, backend integrations, modernization, release engineering, and security-sensitive delivery. The projects below are **independent/open-source engineering**, except for explicitly identified collaborative work such as OpenArchive. They demonstrate design and implementation decisions, not unverified employer-scale adoption.
+
+| Area | Start here |
+| --- | --- |
+| **Staff / platform / backend** | [Config Drift Guard](https://github.com/ryjen/config-drift-guard), [Repora](https://github.com/hackelia-micrantha/repora), [TidyFS](https://github.com/ryjen/tidyfs) — deterministic state, failure and recovery, governed mutation |
+| **Mobile / native / cross-platform** | [Public OpenArchive Android commits](https://github.com/OpenArchive/Save-app-android/commits?author=ryjen), [Eyespie](https://github.com/ryjen/eyespie), [Amaryllis](https://github.com/hackelia-micrantha/amaryllis) — native platform boundaries, offline-first state, on-device inference |
+| **AppSec / AI governance / DevEx** | [Anthesis Governance Lab](https://github.com/ryjen/anthesis-governance-lab), [Keylix](https://github.com/hackelia-micrantha/keylix-community), [git-autocommit](https://github.com/ryjen/git-autocommit) — fail-closed decisions, sender binding, untrusted AI output |
+
+**[Read engineering case studies with problem, design, verification, and limitations →](docs/engineering-work.md)**
+
 ## Selected engineering work
 
 | System | Engineering evidence |
