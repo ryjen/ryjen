@@ -1,4 +1,4 @@
-<h1 align="center">RJ</h1>
+<h1 align="center">Robert Ryan Jennings</h1>
 
 <p align="center">
   <strong>Senior / Staff / Principal Software Engineer</strong><br />
@@ -31,6 +31,16 @@ The recurring question behind much of my current work is:
 - **Platform & developer experience** — paved paths, strong contracts, predictable failure modes, observability, CI/CD, and incremental modernization.
 
 A principle I keep returning to: **a system may propose its successor, but it should not independently authorize the transition to that successor.** Durable state changes need an external trust boundary and evidence that can be independently evaluated.
+
+## Selected commercial engineering impact
+
+These are **professional engagements**, separate from the independent projects below. The summaries are drawn from my career records and experience; proprietary source code and employer deployment data are not presented as public verification.
+
+- **Manulife / John Hancock — regulated mobile systems:** Contributed to Android, iOS and React Native modernization, including authentication-flow improvements, client-state and concurrency fixes, dependency upgrades, and pentest remediation coordinated with AppSec. The emphasis was on incremental reliability and secure delivery rather than a wholesale rewrite.
+- **QuickMobile / Cvent — live event systems:** Built and supported mobile/backend event-engagement features including live polling, beacon integrations, analytics and attendee workflows, including large conference deployments. Improvements to client-specific data/query behavior informed shared application code.
+- **ePACT — backend/mobile integration and automation:** Built change-oriented synchronization and configurable mobile workflows spanning backend services and local data; strengthened Selenium/Appium test automation and mentored a junior QA colleague.
+
+These are **scope-of-work statements**, not audited claims of individual adoption, quantified savings or sole ownership. More role-specific project designs, failure modes and reproducible public artifacts follow below.
 
 ## Engineering evidence by role
 
